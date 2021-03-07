@@ -1,0 +1,15 @@
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/retailStaticFruit.deps.json
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/retailStaticFruit.runtimeconfig.json
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/retailStaticFruit.runtimeconfig.dev.json
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/retailStaticFruit.dll
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/ref/retailStaticFruit.dll
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/bin/Debug/net5.0/retailStaticFruit.pdb
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.csprojAssemblyReference.cache
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.AssemblyInfoInputs.cache
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.AssemblyInfo.cs
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.dll
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/ref/retailStaticFruit.dll
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.pdb
+/Users/rob/Projects/retailStaticFruit/retailStaticFruit/obj/Debug/net5.0/retailStaticFruit.genruntimeconfig.cache
